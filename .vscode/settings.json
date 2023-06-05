@@ -1,0 +1,13 @@
+{
+    "java.project.sourcePaths": [
+        "."
+    ],
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar"
+        ],
+        "exclude": [
+            "lib/commons-math3-3.6.1.jar"
+        ]
+    }
+}
